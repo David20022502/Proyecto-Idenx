@@ -73,4 +73,4 @@ Anexos
 Documentacion :https://github.com/David20022502/Proyecto-Idenx/blob/documento/README.md
 
 
-Video: 
+Video: https://github.com/David20022502/Proyecto-Idenx/blob/video/README.md
