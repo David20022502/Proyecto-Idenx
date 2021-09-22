@@ -1,6 +1,7 @@
 
-##Mockup hecho en Figma para el proyecto IDEN-X
-##Diseño de Interfaz-Inicio
+#Mockup hecho en Figma para el proyecto IDEN-X
+
+#Diseño de Interfaz-Inicio
 
 ![image](https://user-images.githubusercontent.com/65981417/134423007-a78813c0-28d4-4135-9ee1-823bd91cc97c.png)
 
