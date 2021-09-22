@@ -114,4 +114,4 @@ Anexos
 Documentacion :https://github.com/David20022502/Proyecto-Idenx/tree/documento
 
 
-Video: https://github.com/David20022502/Proyecto-Idenx/blob/video/README.md
+Video: https://github.com/David20022502/Proyecto-Idenx/blob/video/link_video.txt
