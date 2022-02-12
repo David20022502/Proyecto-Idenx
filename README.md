@@ -2,6 +2,8 @@
 Link de Aplicación web : 
 https://proyectoiden-960c7.web.app/
 
+Herramientas utilizadas: React, JavaScript, Html, Css, AntdDesign, Firebase
+
 Link del Repositorio del proyecto terminado: https://github.com/DDI-ESFOT/proyecto-semestre-iden-x/tree/proyecto
 
 Anexos 
