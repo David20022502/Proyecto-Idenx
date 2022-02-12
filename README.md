@@ -4,6 +4,12 @@ https://proyectoiden-960c7.web.app/
 
 Link del Repositorio del proyecto terminado: https://github.com/DDI-ESFOT/proyecto-semestre-iden-x/tree/proyecto
 
+Anexos 
+Documentacion :https://github.com/David20022502/Proyecto-Idenx/tree/documento
+
+
+Video del funcionamiento del programa: https://github.com/David20022502/Proyecto-Idenx/blob/video/link_video.txt
+
 #Mockup hecho en Figma para el proyecto IDEN-X
 
 #Diseño de Interfaz-Inicio.
@@ -115,8 +121,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Anexos 
-Documentacion :https://github.com/David20022502/Proyecto-Idenx/tree/documento
 
-
-Video: https://github.com/David20022502/Proyecto-Idenx/blob/video/link_video.txt
