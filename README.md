@@ -2,6 +2,7 @@
 Link de Aplicación web : 
 https://proyectoiden-960c7.web.app/
 
+Link del Repositorio del proyecto terminado: https://github.com/DDI-ESFOT/proyecto-semestre-iden-x/tree/proyecto
 
 #Mockup hecho en Figma para el proyecto IDEN-X
 
