@@ -10,6 +10,8 @@ Documentacion :https://github.com/David20022502/Proyecto-Idenx/tree/documento
 
 Video del funcionamiento del programa: https://github.com/David20022502/Proyecto-Idenx/blob/video/link_video.txt
 
+Información: Este apliación fue hecha con el fin de presentar un proyecto de fin de semestre,Se trata de una App para escuchar musica, el cual para su funcionamiento se utilizo herramientas como: React, JavaScript, CSS, HTML, AntDesign y Firebase para almacenar los datos de las canciones y de los usuarios, para ello se creo una base de datos Real Tiem Database, con un periodo de prueba de treinta de dias(Fecha de creación 28 de Septiembre del 2021), pasado de ese tiempo la conexión con firebase se bloquea impidiendo que el usuario se registre o Inicie sesión, indicandole solo la página de Inicio
+
 #Mockup hecho en Figma para el proyecto IDEN-X
 
 #Diseño de Interfaz-Inicio.
